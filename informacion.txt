@@ -1,0 +1,15 @@
+Evaluador: Alejandro Morera Alvarez
+
+Agente: LSAR (Carbot)
+
+Modelo: GPT-4.1
+
+Conocimiento: Ley de SAR
+
+Búsqueda Web: no
+
+Conocimiento General: no
+
+Orquestación: no
+
+Herramientas: no
